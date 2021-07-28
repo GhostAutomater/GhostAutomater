@@ -1,0 +1,4 @@
+- Self-explanatory @GhostAutomater
+- Basic motives here, who doesn't want to automate and make life easier for everyone?
+- Decent at Python, trying to improve with C++, machine learning, time optimizations, etc.
+- A ghost, good luck finding me
